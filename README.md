@@ -11,11 +11,13 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +32,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
