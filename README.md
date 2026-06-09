@@ -7,6 +7,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
@@ -36,4 +37,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
