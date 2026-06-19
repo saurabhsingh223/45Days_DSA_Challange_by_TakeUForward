@@ -13,6 +13,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
