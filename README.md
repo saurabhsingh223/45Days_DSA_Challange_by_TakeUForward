@@ -14,6 +14,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
