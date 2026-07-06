@@ -54,4 +54,5 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0192-word-frequency](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0192-word-frequency/) | Medium |
+| [0193-valid-phone-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
