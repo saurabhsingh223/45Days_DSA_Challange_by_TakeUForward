@@ -62,6 +62,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0175-combine-two-tables/) | Easy |
+| [0177-nth-highest-salary](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0177-nth-highest-salary/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
