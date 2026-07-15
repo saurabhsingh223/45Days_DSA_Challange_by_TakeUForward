@@ -39,6 +39,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -71,4 +72,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | ------- | ------- |
 | [0015-3sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0018-4sum/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
