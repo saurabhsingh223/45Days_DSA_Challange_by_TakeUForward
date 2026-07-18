@@ -20,6 +20,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Sliding Window
@@ -80,5 +82,6 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
