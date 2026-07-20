@@ -18,6 +18,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1260-shift-2d-grid](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -35,6 +36,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1260-shift-2d-grid/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
