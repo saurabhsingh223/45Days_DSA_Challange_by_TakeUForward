@@ -21,9 +21,7 @@ class Solution {
             }else if(num >= thirdLar){
                 thirdLar = num;
             }
-        }
 
-        for(int num : nums){
             if(num <= small){
                 secSmall = small;
                 small = num;
