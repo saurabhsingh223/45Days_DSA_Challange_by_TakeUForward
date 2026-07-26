@@ -17,6 +17,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1260-shift-2d-grid](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -46,6 +47,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -82,6 +84,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | ------- | ------- |
 | [0015-3sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0018-4sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Number Theory
