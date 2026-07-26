@@ -1,38 +1,38 @@
 class Solution {
     public int maximumProduct(int[] nums) {
-        int max1 = Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
-        int max3 = Integer.MIN_VALUE;
+        //Here -ve numbers are also there so there can be two possible solutions for max product
+        // lar*secLar*ThirdLar;
+        // (-small)*(-secSmall)*lar;
+        int lar = Integer.MIN_VALUE;
+        int secLar = Integer.MIN_VALUE;
+        int thirdLar = Integer.MIN_VALUE;
 
-        int min1 = Integer.MAX_VALUE;
-        int min2 = Integer.MAX_VALUE;
+        int small = Integer.MAX_VALUE;
+        int secSmall = Integer.MAX_VALUE;
 
-        for (int num : nums) {
-
-            // Three largest
-            if (num >= max1) {
-                max3 = max2;
-                max2 = max1;
-                max1 = num;
-            } else if (num >= max2) {
-                max3 = max2;
-                max2 = num;
-            } else if (num >= max3) {
-                max3 = num;
-            }
-
-            // Two smallest
-            if (num <= min1) {
-                min2 = min1;
-                min1 = num;
-            } else if (num <= min2) {
-                min2 = num;
+        for(int num : nums){
+            if(num >= lar){
+                thirdLar = secLar;
+                secLar = lar;
+                lar = num;
+            } else if(num >= secLar){
+                thirdLar = secLar;
+                secLar = num;
+            }else if(num >= thirdLar){
+                thirdLar = num;
             }
         }
 
-        long option1 = 1L * max1 * max2 * max3;
-        long option2 = 1L * min1 * min2 * max1;
-
-        return (int)Math.max(option1, option2);
+        for(int num : nums){
+            if(num <= small){
+                secSmall = small;
+                small = num;
+            } else if(num <= secSmall){
+                secSmall = num;
+            }
+        }
+        long result1 = 1L * lar*secLar*thirdLar;
+        long result2 = 1L*small*secSmall*lar;
+        return (int) Math.max(result1, result2);
     }
 }
