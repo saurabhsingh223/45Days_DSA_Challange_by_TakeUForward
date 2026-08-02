@@ -18,6 +18,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1260-shift-2d-grid](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1260-shift-2d-grid/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -44,11 +45,13 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -109,4 +112,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
