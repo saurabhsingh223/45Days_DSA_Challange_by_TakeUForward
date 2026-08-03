@@ -11,6 +11,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0018-4sum](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
@@ -43,6 +44,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
@@ -116,4 +118,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
