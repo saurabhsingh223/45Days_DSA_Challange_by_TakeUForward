@@ -27,6 +27,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0219-contains-duplicate-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [1331-rank-transform-of-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3731-find-missing-elements/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
