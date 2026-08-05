@@ -12,6 +12,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0118-pascals-triangle/) | Easy |
@@ -54,6 +55,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0066-plus-one/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
