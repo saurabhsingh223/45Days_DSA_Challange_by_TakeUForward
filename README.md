@@ -60,6 +60,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0877-stone-game](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -127,4 +128,8 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0053-maximum-subarray/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
