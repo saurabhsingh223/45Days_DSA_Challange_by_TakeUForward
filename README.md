@@ -92,6 +92,7 @@ In this repository I will solve DSA problems continuously for 45 Days and comple
 | [0585-investments-in-2016](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/0585-investments-in-2016/) | Medium |
 | [1251-average-selling-price](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/saurabhsingh223/45Days_DSA_Challange_by_TakeUForward/tree/main/1341-movie-rating/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
